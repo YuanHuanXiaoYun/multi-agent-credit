@@ -1,4 +1,4 @@
-# Multi-Agent Task Environment with LLM-based Credit Assignment
+# Event-Driven Credit Settlement for Multi-Agent Task Allocation via LLM-Aided Rule Selection
 
 This project implements a multi-agent task allocation environment with pluggable credit settlement mechanisms, including an optional LLM-based dynamic credit mode selector.
 
